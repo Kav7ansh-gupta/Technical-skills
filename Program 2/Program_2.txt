@@ -11,7 +11,7 @@ Example: index:  0  1  2  3
         hence , index 2 is equilibirium index
         and count = 1;
         
-Algoritm:
+Psudocode: 
 
 1:.. Step 1 >> Read the array and find its length.
 1:.. Step 2 >> Create the prifix array and store the full sum of the array.
