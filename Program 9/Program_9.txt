@@ -1,0 +1,4 @@
+Question >>> WAP to find the sum of upperdigonal elements of a matrix .
+
+Observation>>>> For every i , j is greater then i Then it is an upper digonal .
+                For every i , i is greater then j then its is an lower digonal.
